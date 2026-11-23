@@ -1,0 +1,10 @@
+{
+    "size": 256,
+    "seed": 12345,
+    "scale": 70.0,
+    "octaves": 5,
+    "persistence": 0.5,
+    "lacunarity": 2.0,
+    "world_size": 1000.0,
+    "height_scale": 100.0
+}

@@ -1,0 +1,1 @@
+''' zapis generowanego terenu w odpowiednim formacie'''
